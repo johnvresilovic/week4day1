@@ -1,1 +1,2 @@
-console.log('First commit')
+const logNumbers = () => {for (i = 1; i < 21; i++) {console.log(i)}}
+logNumbers()
