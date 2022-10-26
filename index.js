@@ -44,15 +44,35 @@
 // console.log(dart)
 // console.log(wolfy)
 
-const ninjaTurtles = ["Donatello", "Leonardo", "Raphael", "Michaelangelo"]
-let upperCaseNT = ""
+// const ninjaTurtles = ["Donatello", "Leonardo", "Raphael", "Michaelangelo"]
 // for (let i of ninjaTurtles) {
-//     upperCaseNT = ninjaTurtles[i].toUpperCase()
-//     console.log(upperCaseNT)
+//   console.log(i.toUpperCase());
 // }
-// Can't get for of loop to work; working code below
-// for (i = 0; i < ninjaTurtles.length; i++) {
-//     upperCaseNT = ninjaTurtles[i].toUpperCase()
-//     console.log(upperCaseNT)
-// }
+
+// let favMovies = ['Jaws', 'The Fellowship of the Ring', 'Howl\'s Moving Castle', 'Django Unchained', 'Cloud Atlas', 'The Usual Suspects', 'Toy Story', 'Conan the Barbarian', 'Titanic', 'Harry Potter', 'Fried Green Tomatoes', 'Volver', 'Oculus', 'Seven', 'Black Panther', 'Harry Potter', 'Imitation of Life', 'Snatch', 'Fast and Furious']
+
+// console.log(favMovies.indexOf('Titanic'))
+
+// console.log(favMovies.sort())
+
+// console.log(favMovies.pop())
+
+// favMovies.push('Guardians of the Galaxy')
+// console.log(favMovies)
+
+// favMovies.reverse()
+// console.log(favMovies)
+
+// favMovies.shift()
+// console.log(favMovies)
+
+// favMovies.unshift('Jaws')
+// console.log(favMovies)
+
+// favMovies.splice(3, 1, 'Avatar')
+// console.log(favMovies)
+
+const whereIsWaldo = [["Timmy", "Frank"], "Eggbert",
+                    ["Lucinda", "Jacc", "Neff", "Snoop"],
+                    ["Petunia", ["Baked Goods", "Waldo"]]];
 
