@@ -72,12 +72,17 @@
 // favMovies.splice(3, 1, 'Avatar')
 // console.log(favMovies)
 
-let favMovies = ['Jaws', 'The Fellowship of the Ring', 'Howl\'s Moving Castle', 'Django Unchained', 'Cloud Atlas', 'The Usual Suspects', 'Toy Story', 'Conan the Barbarian', 'Titanic', 'Harry Potter', 'Fried Green Tomatoes', 'Volver', 'Oculus', 'Seven', 'Black Panther', 'Harry Potter', 'Imitation of Life', 'Snatch', 'Fast and Furious', 'Avatar']
+// let halfArrLength = favMovies.length / 2
+// console.log(favMovies.slice(halfArrLength))
 
-let halfArrLength = favMovies.length / 2
-console.log(favMovies.slice(halfArrLength))
+// const whereIsWaldo = [["Timmy", "Frank"], "Eggbert",
+//                     ["Lucinda", "Jacc", "Neff", "Snoop"],
+//                     ["Petunia", ["Baked Goods", "Waldo"]]];
 
-const whereIsWaldo = [["Timmy", "Frank"], "Eggbert",
-                    ["Lucinda", "Jacc", "Neff", "Snoop"],
-                    ["Petunia", ["Baked Goods", "Waldo"]]];
+// whereIsWaldo.splice(1,1)
+// console.log(whereIsWaldo)
 
+// whereIsWaldo[2][2] = 'No One'
+// console.log(whereIsWaldo[2][2])
+
+// console.log(whereIsWaldo[3][1][1])
