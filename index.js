@@ -86,3 +86,18 @@
 // console.log(whereIsWaldo[2][2])
 
 // console.log(whereIsWaldo[3][1][1])
+
+// let min = 0;
+// let max = 2;
+// let kittenSayings = ["...human...why you taking pictures of me?...", "...the catnip made me do it...", "...why does the red dot always get away..."]
+// for (i = 1; i < 21; i++) {
+//     console.log("Love me, pet me! HSSSSSS!")
+//     if (i % 2 === 0) {
+//         randNum = Math.floor(Math.random() * (max - min + 1)) + min
+//         console.log(kittenSayings[randNum])
+//     }
+// }
+
+
+
+
